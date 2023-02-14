@@ -12,4 +12,5 @@ You can download to use it
 - #### *Zip*
 - - you can click `Download Zip` to download
 - #### *Git*
-- - you can use this command to download ` `
+- - you can use this command to download 
+  - `git clone https://github.com/KeithLin724/NYCU-EELab-Sem-2-Lab-Code-2022.git`
